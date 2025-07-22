@@ -1,0 +1,9 @@
+{
+  "entityId" : "12345",
+  "entityType" : "Organization",
+  "address" : [ "123 Test St, Test City, TC 12345" ],
+  "associatedEntities" : null,
+  "events" : null,
+  "entityName" : "Test Entity",
+  "source" : [ "http//abc" ]
+}
